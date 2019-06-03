@@ -61,7 +61,7 @@
 
 <a name="emc"></a>
 ## 6. Embodiment and morphological computation
-![image](https://user-images.githubusercontent.com/48908517/58818606-3524e380-8626-11e9-8558-4a7328ad2f40.png)
+![image](https://user-images.githubusercontent.com/48908517/58832468-e3d91c00-8646-11e9-809a-b2645e91dd1e.png)
 
 <a name="bt"></a>
 [Back to top](#bt)
