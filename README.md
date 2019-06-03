@@ -45,7 +45,7 @@
 
 <a name="er"></a>
 ## 4. Evolutionary Robotics
-![image](https://user-images.githubusercontent.com/48908517/58818315-a57f3500-8625-11e9-9ffd-681757d9fcfc.png)
+![image](https://user-images.githubusercontent.com/48908517/58831576-e5094980-8644-11e9-9671-a6cd97917ae9.png)
 
 <a name="bt"></a>
 [Back to top](#bt)
