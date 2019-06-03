@@ -53,7 +53,7 @@
 
 <a name="brc"></a>
 ## 5. Bio-inspired Robot Control
-![image](https://user-images.githubusercontent.com/48908517/58818500-f8f18300-8625-11e9-8094-afea1ef57c73.png)
+![image](https://user-images.githubusercontent.com/48908517/58831261-37963600-8644-11e9-846c-9fa596e25b1d.png)
 
 <a name="bt"></a>
 [Back to top](#bt)
